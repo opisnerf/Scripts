@@ -12,6 +12,8 @@ local Tab = Window:MakeTab({
 
 Tab:AddLabel("This GUI is made to make you look legit (because i have a scripting skill issue)")
 
+Tab:AddLabel("(mostly because i have a scripting skill issue)")
+
 Tab:AddLabel("You have to walk to the training zone manually")
 
 Tab:AddDropdown({
