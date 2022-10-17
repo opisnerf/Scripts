@@ -10,7 +10,7 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 
-Tab:AddLabel("This GUI is made to make you look legit (because i have a scripting skill issue)")
+Tab:AddLabel("This GUI is made to make you look legit")
 
 Tab:AddLabel("(mostly because i have a scripting skill issue)")
 
